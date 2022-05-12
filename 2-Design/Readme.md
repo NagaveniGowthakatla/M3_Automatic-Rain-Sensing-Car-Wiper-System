@@ -1,7 +1,4 @@
- ## Simulation of the design in PROTEUS software:-
-
- ![](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/raw/master/docs/Proteus%20Simulation%20Design.png)
-
+ 
 ##  PCB Layout Design on EAGLE PCB Design Software:-
 
 ![](https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller/raw/master/docs/PCB%20Layout%20on%20Eagle.jpg)
