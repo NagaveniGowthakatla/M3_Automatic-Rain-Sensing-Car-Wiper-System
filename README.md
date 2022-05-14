@@ -35,6 +35,7 @@
 ![prtscr car  wiper](https://user-images.githubusercontent.com/101544562/168419021-93cebdd9-d791-4f46-a761-27635c921739.png)
 ![Code Quality Score](https://api.codiga.io/project/33305/score/svg)
 ![Code Grade](https://api.codiga.io/project/33305/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7e8e461f566f44cd8b3c0f999211fdbe)](https://www.codacy.com/gh/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System&amp;utm_campaign=Badge_Grade)
 
 
 
