@@ -39,6 +39,8 @@
 [![Close Stale Issues](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Close%20Stale%20Issues.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Close%20Stale%20Issues.yml)]
 [![CI](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/CI.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/CI.yml)
 [![Cache](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Cache.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Cache.yml)
+[![Setup .NET Core SDK](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Setup%20.NET%20Core%20SDK.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Setup%20.NET%20Core%20SDK.yml)
+
 
 
 
