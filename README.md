@@ -38,6 +38,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7e8e461f566f44cd8b3c0f999211fdbe)](https://www.codacy.com/gh/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System&amp;utm_campaign=Badge_Grade)
 [![Close Stale Issues](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Close%20Stale%20Issues.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Close%20Stale%20Issues.yml)]
 [![CI](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/CI.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/CI.yml)
+[![Cache](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Cache.yml/badge.svg)](https://github.com/NagaveniGowthakatla/M3_Automatic-Rain-Sensing-Car-Wiper-System/actions/workflows/Cache.yml)
 
 
 
