@@ -32,8 +32,10 @@
 |6|Output|readme.md|
 
 ## Sdlc Activity:-
-
-
+![Code Inspector](![prtscr car  wiper](https://user-images.githubusercontent.com/101544562/168419021-93cebdd9-d791-4f46-a761-27635c921739.png)
+)
+![Code Quality Score](https://api.codiga.io/project/33305/score/svg)
+![Code Grade](https://api.codiga.io/project/33305/status/svg)
 
 
 
